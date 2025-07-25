@@ -2,7 +2,7 @@ import os
 import requests
 
 # Link da imagem no GitHub
-IMAGEM_URL = "https://raw.githubusercontent.com/seu_usuario/seu_repositorio/main/imagem.jpg"
+IMAGEM_URL = "https://github.com/ReChat-game/Baixar/blob/main/BackgroundEraser_20250721_215310135.png"
 
 # Caminho para salvar as imagens
 CAMINHO_SALVAR = "/storage/emulated/0/Download/imagens_github"
